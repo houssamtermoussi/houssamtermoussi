@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=houssamtermoussi&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=houssamtermoussi&icon=0&color=2)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
