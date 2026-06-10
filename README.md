@@ -1,6 +1,6 @@
 👋 Welcome to my GitHub Profile</br>  
 ⚡ Turning ideas into real applications </br>  
-🌐 Web Developer | 📱 Mobile Developer  </br> 
+🌐 Web Developer | 📱 Mobile Developer </br> 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/h0uss4m.t) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/h0uss4m.t) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:houssam111888@gmail.com) 
