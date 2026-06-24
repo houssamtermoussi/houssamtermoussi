@@ -15,7 +15,7 @@
 
 ⚡ Turning ideas into real applications
 
-🌐 Web Developer | 📱 Mobile Developer
+💻 Software Developer
 
 
 ## 🌐 Socials:
