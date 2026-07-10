@@ -7,7 +7,7 @@
 <br>
 
 # 💫 About Me:
-<img src="vague.png" alt="vague" width="160" align="right" />
+<img src="vague.png" alt="vague" width="140" align="right" />
 
 👋 Welcome to my GitHub Profile  
 ⚡ Turning ideas into real applications <br>
