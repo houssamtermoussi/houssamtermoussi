@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="cat.jpg" alt="Cat" align="center" />
+<img src="moon.jpg" alt="Cat" align="center" />
 
 # 💫 About Me:
 👋 Welcome to my GitHub Profile</br>
