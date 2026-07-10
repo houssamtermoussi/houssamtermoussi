@@ -13,7 +13,7 @@
 
 
 # 💫 About Me:
-👋 Welcome to my GitHub Profile</br>
+<img src="vague.png" alt="vague" width="30" height="30" /> 👋 Welcome to my GitHub Profile</br>
 
 ⚡ Turning ideas into real applications
 
