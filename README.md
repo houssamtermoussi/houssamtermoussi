@@ -9,9 +9,9 @@
 # 💫 About Me:
 <img src="vague.png" alt="vague" width="140" align="right" />
 
-👋 Welcome to my GitHub Profile  
-⚡ Turning ideas into real applications <br>
-💻 Software Developer
+<h2>👋 Welcome to my GitHub Profile  </h2>
+<h2>⚡ Turning ideas into real applications <h2>
+<h2>💻 Software Developer</h2>
 
 
 ## 🌐 Socials:
