@@ -9,10 +9,11 @@
 # 💫 About Me:
 <img src="vague.png" alt="vague" width="140" align="right" />
 
-<h2>👋 Welcome to my GitHub Profile  </h2>
-<h2>⚡ Turning ideas into real applications <h2>
-<h2>💻 Software Developer</h2>
+### 👋 Welcome to my GitHub Profile
+### ⚡ Turning ideas into real applications
+### 💻 Software Developer
 
+<br clear="right">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/h0uss4m.t)
