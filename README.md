@@ -6,7 +6,7 @@
 </div> 
 <br>
   
-# 💫 About Me:
+# 💫 About Me:  
 <img src="vague.png" alt="vague" width="220" align="right" />
 
 ### 👋 Welcome to my GitHub Profile
