@@ -13,13 +13,13 @@
 
 ### Welcome to my GitHub Profile
 
-### ⚡ Turning ideas into real applications
+### Turning ideas into real applications
 
-### 💻 Software Developer
+### Software Developer
 
 <br clear="right">
 
-## 🌐 Portfolio:
+## Portfolio:
 
 <div align="center">
 
