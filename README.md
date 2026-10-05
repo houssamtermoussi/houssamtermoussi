@@ -24,14 +24,14 @@
 <div align="center">
 
 <a href="https://houssamtermoussi.github.io/portfolio2/">
-  <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/%20Visit%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 <br>
 
-## 🌐 Socials:
+## Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord\&logoColor=white)](https://discord.gg/h0uss4m.t)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:houssamtermoussi@gmail.com)
