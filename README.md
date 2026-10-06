@@ -22,6 +22,7 @@
 ## Portfolio:
 
 <div align="center">
+  
 <a href="https://houssamtermoussi.github.io/portfolio2/">
   <img src="https://img.shields.io/badge/%20Visit%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
