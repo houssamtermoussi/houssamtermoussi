@@ -10,11 +10,11 @@
 
 <img src="retro.jpg" alt="vague" width="220" align="right" />
 
-## Welcome to my GitHub Profile
+ Welcome to my GitHub Profile
 
-## Turning ideas into real applications
+ Turning ideas into real applications
 
-## Software Developer
+ Software Developer
 
 <br clear="right">
  
