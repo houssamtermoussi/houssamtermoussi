@@ -6,7 +6,7 @@
 </div>
 <br>
 
-# About Me: 
+# About Me:
 
 <img src="retro.jpg" alt="vague" width="220" align="right" />
   
