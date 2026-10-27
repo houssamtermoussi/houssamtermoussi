@@ -14,7 +14,7 @@
 
  Turning ideas into real applications
 
- Software Developer 
+ Software Developer
 
 <br clear="right">
  
