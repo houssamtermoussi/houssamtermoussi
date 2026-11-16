@@ -33,3 +33,9 @@
 # GitHub Stats:
 
 ![](https://streak-stats.demolab.com/?user=houssamtermoussi\&theme=transparent\&hide_border=true) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=houssamtermoussi\&theme=transparent\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)
+
+# Contribution Graph:
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=houssamtermoussi&custom_title=H0uss4m's%20Contribution%20Graph&bg_color=0d1117&color=c9d1d9&line=f59e0b&point=f59e0b&area=true&area_color=f59e0b&hide_border=true" alt="H0uss4m's Contribution Graph" />
+</div>
