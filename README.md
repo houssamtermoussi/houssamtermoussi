@@ -12,6 +12,7 @@
 
 <h3>Welcome to my GitHub Profile</h3>
 <h3>Turning ideas into real applications</h3>
+<h3>Need a developer for your project? Let's build it together.</h3>
 <h3>Software Developer</h3>
 
 <br clear="right">
