@@ -8,15 +8,22 @@
 
 # About Me:
 
-<img src="frame.svg" alt="vague" width="240" align="right" />
+<table>
+<tr>
+<td width="70%" valign="middle">
 
- Welcome to my GitHub Profile
+### Welcome to my GitHub Profile
 
- Turning ideas into real applications
+Turning ideas into real applications
 
- Software Developer
+**Software Developer**
 
-<br clear="right">
+</td>
+<td width="30%" align="center" valign="middle">
+  <img src="frame.svg" alt="Houssam" width="220" />
+</td>
+</tr>
+</table>
 
 # Portfolio:
 
