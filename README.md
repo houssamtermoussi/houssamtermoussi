@@ -10,11 +10,9 @@
 
 <img src="frame.svg" alt="Houssam" width="240" align="right" />
 
-## Welcome to my GitHub Profile
-
-### Turning ideas into real applications
-
-### Software Developer
+<h3>Welcome to my GitHub Profile</h3>
+<h3>Turning ideas into real applications</h3>
+<h3>Software Developer</h3>
 
 <br clear="right">
 
