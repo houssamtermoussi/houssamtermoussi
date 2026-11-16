@@ -8,7 +8,7 @@
 
 # About Me:
 
-<img src="retro.jpg" alt="vague" width="220" align="right" />
+<img src="frame.svg" alt="vague" width="240" align="right" />
 
  Welcome to my GitHub Profile
 
