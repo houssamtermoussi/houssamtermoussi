@@ -38,5 +38,5 @@
 # Contribution Graph:
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=houssamtermoussi&custom_title=H0uss4m's%20Contribution%20Graph&bg_color=0d1117&color=c9d1d9&line=f59e0b&point=f59e0b&area=true&area_color=f59e0b&hide_border=true" alt="H0uss4m's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=houssamtermoussi&custom_title=H0uss4m's%20Contribution%20Graph&bg_color=0d1117&color=c9d1d9&line=4379E5&point=4379E5&area=true&area_color=4379E5&hide_border=true" alt="H0uss4m's Contribution Graph" />
 </div>
