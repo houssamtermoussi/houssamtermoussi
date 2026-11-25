@@ -21,7 +21,7 @@
 
 <div align="center">
   
-<a href="https://houssamtermoussi.github.io/portfolio2/">
+<a href="https://houssamtermoussi.github.io/my-portfolio/">
   <img src="https://img.shields.io/badge/%20Visit%20My%20Portfolio-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
