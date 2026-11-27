@@ -1,6 +1,6 @@
 <!-- Animation Typing -->
 <div align="center">
-<p align="center"> 
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=4379E5&center=true&vCenter=true&width=800&lines=+Hello+I'm+H0uss4m;+Welcome+to+my+GitHub+Profile" />
 </p>
 </div>
